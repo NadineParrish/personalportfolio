@@ -1,3 +1,3 @@
 # personalportfolio
 
-All portfolio projects separated by branches. To access addition portfolio piece please contact me.
+All portfolio projects are separated by branches. Details in the About Me will briefly overview each project.
