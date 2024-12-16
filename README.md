@@ -1,3 +1,3 @@
 # personalportfolio
 
-All portfolio projects are separated by branches. Details in the About Me will briefly overview each project.
+All portfolio projects are separated by branches. Details in each files README will briefly overview the project.
